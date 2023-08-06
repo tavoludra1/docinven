@@ -1,10 +1,14 @@
-Este es un proyecto creado en [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Proyecto Inventario
+
+
+Este es un proyecto creado en [Next.js](https://nextjs.org/) y editado en contenedor de GITHUB
 
 ## Comenzar
 
 Primer, activar el servidor:
 
-```bash
+
+```filename="Terminal"
 npm run dev
 # or
 yarn dev
