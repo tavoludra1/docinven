@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "octref.vetur",
+        "stylelint.vscode-stylelint",
+        // install copilot extension
+        "github.copilot",
+        // install copilot chat extension
+        "github.copilot-chat",
+    ]
+}
