@@ -17,15 +17,15 @@ export default function Home() {
 
       {/* texto Central */}
       <div className="flex items-center space-x-2">
-        <div className="bg-gray-500 w-20 h-20 rounded-full flex items-center justify-center text-white text-6xl font-mono font-bold">
+        <div className="bg-gray-500 w-20 h-20 rounded-full flex items-center justify-center text-white text-3xl font-mono font-bold">
           I
         </div>
-        <span className="text-6xl font-mono font-semibold text-gray-500">
+        <span className="text-3xl font-mono font-semibold text-gray-500">
           nventario
         </span>
         <div>
           <span className="text-base items-center justify-center font-mono font-semibold text-gray-500">
-            audiovisual
+            A/V
           </span>
         </div>
       </div>
@@ -93,8 +93,8 @@ export default function Home() {
             Ingresar{' '}
 
             <span className=" inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 9V5.25A2.25 2.25 0 0013.5 3h-6a2.25 2.25 0 00-2.25 2.25v13.5A2.25 2.25 0 007.5 21h6a2.25 2.25 0 002.25-2.25V15m3 0l3-3m0 0l-3-3m3 3H9" />
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="w-6 h-6">
+                <path d="M15.75 9V5.25A2.25 2.25 0 0013.5 3h-6a2.25 2.25 0 00-2.25 2.25v13.5A2.25 2.25 0 007.5 21h6a2.25 2.25 0 002.25-2.25V15m3 0l3-3m0 0l-3-3m3 3H9" />
               </svg>
             </span>
 
